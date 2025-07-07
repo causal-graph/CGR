@@ -1,0 +1,9 @@
+# Ignore all .pt files inside dataset folder
+dataset/**/*.pt
+
+# Optional: ignore any large raw data files
+*.pt
+*.pkl
+*.npy
+*.tar.gz
+*.zip
